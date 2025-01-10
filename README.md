@@ -1,3 +1,5 @@
+# Project Structure
+```
 src/
 ├── components/
 ├── pages/
@@ -13,3 +15,4 @@ src/
 │       ├── SummaryPage.js
 │       ├── tests/
 │           └── SummaryPage.test.js
+```
